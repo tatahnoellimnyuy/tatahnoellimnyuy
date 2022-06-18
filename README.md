@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tatahnoellimnyuy
-- 👀 I’m interested in ... Bankend development and system administration
-- 🌱 I’m currently learning ... dotNet and ASP.NET
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m passionate about Devops and cloud computing
+- 🌱 I’m currently working on improving my Devops and cloud computing skills
+- 💞️ I’m looking to collaborate on ... open source projects 
 - 📫 How to reach me ...
 
 <!---
